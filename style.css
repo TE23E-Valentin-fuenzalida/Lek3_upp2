@@ -1,0 +1,30 @@
+body{
+    background-image: url(/img/ek.jpg);
+}
+
+h1{
+    background-color: lightblue;
+    color: red;
+    text-align: center;
+}
+
+h2{
+    background-color: purple;
+    color: lightgreen;
+}
+
+a{
+    background-color: black;
+    color: white;
+}
+a:hover{
+    color: lawngreen;
+}
+a:active{
+    color: #ff0088;
+}
+
+p{
+    background-color: white;
+    color: black;
+}
